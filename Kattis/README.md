@@ -3,7 +3,8 @@
 ## Topological Sort
 - [x] brexit 2.6
     - submission: https://open.kattis.com/problems/brexit
-- [ ] grapevine 2.7
+- [x] grapevine 2.7
+    - submission: https://open.kattis.com/problems/grapevine
 - [ ] builddeps 3.2
 - [ ] collapse 3.3
 - [ ] pickupsticks 3.4
